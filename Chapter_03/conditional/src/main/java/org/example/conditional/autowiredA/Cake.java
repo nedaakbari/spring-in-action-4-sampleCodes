@@ -1,4 +1,6 @@
 package org.example.conditional.autowiredA;
 
-public class Cake {
-}
+import org.springframework.stereotype.Component;
+
+@Component
+public class Cake implements Dessert{}
