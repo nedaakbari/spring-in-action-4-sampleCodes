@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="73c7b2f7-c860-425d-8099-608926e37fce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Chapter_03/conditional/src/main/java/org/example/conditional/autowiredAmbiguity/AnotherClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter_03/conditional/src/main/java/org/example/conditional/autowiredAmbiguity/Cold.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter_03/conditional/src/main/java/org/example/conditional/autowiredAmbiguity/Cookies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter_03/conditional/src/main/java/org/example/conditional/autowiredAmbiguity/Creamy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter_03/conditional/src/main/java/org/example/conditional/autowiredAmbiguity/Dessert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter_03/conditional/src/main/java/org/example/conditional/autowiredAmbiguity/IceCream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter_03/scopedbeans/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter_03/scopedbeans/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter_03/scopedbeans/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter_03/scopedbeans/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter_03/scopedbeans/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter_03/scopedbeans/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter_03/scopedbeans/src/main/java/org/example/scopedbeans/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter_03/scopedbeans/src/main/java/org/example/scopedbeans/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter_03/scopedbeans/src/main/java/org/example/scopedbeans/Notepad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter_03/scopedbeans/src/main/java/org/example/scopedbeans/UniqueThing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter_03/scopedbeans/src/main/resources/scoped-beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/aspect/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_03/conditional/src/main/java/org/example/conditional/MagicBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_03/conditional/src/main/java/org/example/conditional/MagicBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_03/conditional/src/main/java/org/example/conditional/autowiredA/Cake.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_03/conditional/src/main/java/org/example/conditional/autowiredAmbiguity/Cake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_03/conditional/src/main/java/org/example/conditional/autowiredA/Dessert.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2b1rwmIrDnzSBQnoBqFMKDhAEF4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.aspect.Main" />
+      <module name="aspect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.aspect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="untitled" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-20.0.2-corretto-20.0.2.1-3183f394aec4-907a2361" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73c7b2f7-c860-425d-8099-608926e37fce" name="Changes" comment="" />
+      <created>1705393669371</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705393669371</updated>
+      <workItem from="1705393670514" duration="62000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
