@@ -8,10 +8,10 @@ import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatche
 
 public class Main {
     public static void main(String[] args) {
-        AbstractAnnotationConfigDispatcherServletInitializer
-        1)   DispatcherServlet         extends FrameworkServlet
-        2)   ContextLoaderListener     extends ContextLoader implements ServletContextListener
-
+//        AbstractAnnotationConfigDispatcherServletInitializer
+//        1)   DispatcherServlet         extends FrameworkServlet
+//        2)   ContextLoaderListener     extends ContextLoader implements ServletContextListener
+//
 
 
     }
