@@ -7,8 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="conditional" />
-        <module name="springmvc" />
+        <module name="chapter_05" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springmvc" target="20" />
+    </bytecodeTargetLevel>
   </component>
 </project>

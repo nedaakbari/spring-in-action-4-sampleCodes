@@ -31,5 +31,10 @@
         <version>6.1.2</version>
         <scope>test</scope>
     </dependency>
+    <dependency>
+        <groupId>org.aspectj</groupId>
+        <artifactId>aspectjrt</artifactId>
+        <version>1.9.21</version>
+    </dependency>
 </dependencies>
 </project>

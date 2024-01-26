@@ -4,37 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73c7b2f7-c860-425d-8099-608926e37fce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Chapter_03/conditional/src/main/java/org/example/conditional/autowiredAmbiguity/AnotherClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Chapter_03/conditional/src/main/java/org/example/conditional/autowiredAmbiguity/Cold.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Chapter_03/conditional/src/main/java/org/example/conditional/autowiredAmbiguity/Cookies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Chapter_03/conditional/src/main/java/org/example/conditional/autowiredAmbiguity/Creamy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Chapter_03/conditional/src/main/java/org/example/conditional/autowiredAmbiguity/Dessert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Chapter_03/conditional/src/main/java/org/example/conditional/autowiredAmbiguity/IceCream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Chapter_03/scopedbeans/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Chapter_03/scopedbeans/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Chapter_03/scopedbeans/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Chapter_03/scopedbeans/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Chapter_03/scopedbeans/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Chapter_03/scopedbeans/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Chapter_03/scopedbeans/src/main/java/org/example/scopedbeans/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Chapter_03/scopedbeans/src/main/java/org/example/scopedbeans/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Chapter_03/scopedbeans/src/main/java/org/example/scopedbeans/Notepad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Chapter_03/scopedbeans/src/main/java/org/example/scopedbeans/UniqueThing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Chapter_03/scopedbeans/src/main/resources/scoped-beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/aspect/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chapter_03/conditional/src/main/java/org/example/conditional/MagicBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_03/conditional/src/main/java/org/example/conditional/MagicBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chapter_03/conditional/src/main/java/org/example/conditional/autowiredA/Cake.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_03/conditional/src/main/java/org/example/conditional/autowiredAmbiguity/Cake.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chapter_03/conditional/src/main/java/org/example/conditional/autowiredA/Dessert.java" beforeDir="false" />
+    <list default="true" id="73c7b2f7-c860-425d-8099-608926e37fce" name="Changes" comment="init  aspect">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/aspect/concert/Audience.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/aspect/concert/ConcertConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/aspect/concert/P.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/aspect/concert/TrackCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/aspect/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/aspect/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/aspect/Performance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/aspect/concert/Performance.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -49,9 +41,15 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Debug&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/nedaa/project/company/pureSpring/company&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
@@ -63,7 +61,7 @@
       <module name="aspect" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.aspect.*" />
+          <option name="PATTERN" value="org.example.aspect.concert.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,10 +104,28 @@
       <option name="presentableId" value="Default" />
       <updated>1705393669371</updated>
       <workItem from="1705393670514" duration="62000" />
+      <workItem from="1705393913395" duration="2270000" />
+      <workItem from="1705412164815" duration="1644000" />
+      <workItem from="1705419800227" duration="1190000" />
     </task>
+    <task id="LOCAL-00001" summary="init  aspect">
+      <option name="closed" value="true" />
+      <created>1705393987753</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705393987753</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="init  aspect" />
+    <option name="LAST_COMMIT_MESSAGE" value="init  aspect" />
   </component>
 </project>
